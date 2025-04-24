@@ -1,0 +1,27 @@
+{
+    "ppc": {
+      "name": "Phantom Pain Cage",
+      "reset": {
+        "dayOfWeek": 1,
+        "timeUTC": "07:00:00"
+      },
+      "type": "weekly"
+    },
+    "wz": {
+      "name": "Warzone",
+      "reset": {
+        "dayOfWeek": 0,
+        "timeUTC": "20:00:00"
+      },
+      "type": "weekly"
+    },
+    "norman": {
+      "name": "Norman Revival Plan",
+      "reset": {
+        "referenceDate": "2023-12-06",
+        "intervalDays": 10,
+        "timeUTC": "07:00:00"
+      },
+      "type": "interval"
+    }
+  }
